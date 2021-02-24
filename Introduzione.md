@@ -1,11 +1,10 @@
 # Prova
-dahhadfhafhafdfz
 
-**Simulazione Test**
+## Simulazione Test
 
--creare un jupyter notebook
+*creare un jupyter notebook
 
--descrivi brevemente il ruolo della logica ed i diversi tipi di logica studiati
+*descrivi brevemente il ruolo della logica ed i diversi tipi di logica studiati
 
 -implementare i connettivi logici come funzioni in python
 
