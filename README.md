@@ -1,19 +1,9 @@
 # Corso_fuzzy_2021
-# Geometry 2020
+
 
 ![](Keyboard.jpg)
 
-This repository is an example of useful tools for the exam of Geometry at [University of Molise](https://www2.dipmedicina.unimol.it/ingegneria-medica/). 
 
-In the file [lib.py](code/lib.py) there are some functions in Python language, simulating the answers during the examination. I suggest to download the repository and open the file [index.html](/docs/build/html/index.html) with your browser to see the documentation.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nulla leo, vehicula mollis justo id, ultricies consectetur arcu. Etiam nec libero eu urna cursus rhoncus. Vivamus accumsan maximus augue ac mollis. Pellentesque ut tempor quam. Nam suscipit porttitor metus, in interdum nisl facilisis at. Cras elementum iaculis mi eget iaculis. Vivamus ligula ipsum, lobortis aliquet tincidunt ut, feugiat et massa. Vivamus tempus elit in arcu posuere, vel tempor ipsum hendrerit. Vivamus at tellus eu ante lacinia sollicitudin. Pellentesque purus augue, ultrices sit amet ornare quis, euismod et justo. Nam tincidunt sodales aliquam. Suspendisse quis metus auctor, pulvinar ante scelerisque, pharetra ante. Quisque sit amet scelerisque ex. Vivamus id convallis odio.
 
-This work is for illustrative purposes only and may contain errors or inaccuracies. All contributions are welcome. For clarification or more information you can contact me at the email address gaetano.vitale@unimol.it.
-
-\
-\
-\
-Questo repository è un esempio di strumenti utili per l'esame di Geometria presso [Università del Molise](https://www2.dipmedicina.unimol.it/ingegneria-medica/).
-
-Nel file [lib.py](code/lib.py) sono presenti alcune funzioni in linguaggio Python, che simulano le risposte durante l'esame. Suggerisco di scaricare il repository e aprire il file [index.html](/docs/build/html/index.html) con il browser per vedere la documentazione.
-
-Questo lavoro è solo a scopo illustrativo e può contenere errori o imprecisioni. Tutti i contributi sono ben accetti. Per chiarimenti o maggiori informazioni potete contattarmi all'indirizzo email gaetano.vitale@unimol.it.
+Proin imperdiet vehicula sapien id aliquam. Mauris dui nibh, sagittis id urna tristique, molestie faucibus ipsum. Quisque tellus nibh, elementum sit amet libero in, tempus tempor felis. Donec at semper ante, et feugiat enim. Mauris dictum augue at dapibus vehicula. Integer lobortis auctor fermentum. Vivamus fringilla posuere tellus id facilisis. Aenean felis augue, gravida id magna placerat, lacinia ultrices velit. Phasellus at nibh sapien. Maecenas elit ante, pellentesque consequat sem sit amet, dignissim pulvinar ligula.
