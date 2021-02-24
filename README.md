@@ -1,4 +1,4 @@
-# Corso_fuzzy_2021
+# Corso_Fuzzy_2021
 
 
 ![](Keyboard.jpg)
