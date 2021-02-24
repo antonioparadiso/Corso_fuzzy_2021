@@ -3,6 +3,7 @@ dahhadfhafhafdfz
 
 Simulazione Test
 -creare un jupyter notebook
+
 -descrivi brevemente il ruolo della logica ed i diversi tipi di logica studiati
 -implementare i connettivi logici come funzioni in python
 -testare le funzioni
