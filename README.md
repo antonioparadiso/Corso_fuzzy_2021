@@ -10,7 +10,7 @@ Prof. Gaetano Vitale
 
 Studente: Antonio Paradiso
 
-Argomenti Del Corso:
+##Argomenti Del Corso:
 * introduzione al pensiero formale
 * cenni storici
 * cenni di programmazione
