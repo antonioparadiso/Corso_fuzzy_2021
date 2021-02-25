@@ -11,6 +11,9 @@
 * inviare il link della repository ed il notebook in formato .pdf alle email: gvitale@unisa.it e ifts@scuolalatecnica.it
 
 
-Logica fuzzy
+### Logica fuzzy
 
 La logica Fuzzy è una logica sfumata utilizzata nello studio dell'intelligenza artificiale per introdurre un valore di verità intermedio tra vero e falso. La logica booleana dei moderni computer si basa sull'esistenza di un grado di verità pari a 0 o 1.
+
+
+Gli altri punti, quindi il codice in pyton si trovano nella cartella Sorgenti
