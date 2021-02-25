@@ -5,7 +5,9 @@
 
 
 Corso IFTS Per La Sicurezza Delle Reti E Dei Sistemi IT Security Specialist - 2021
+
 Prof. Gaetano Vitale
+
 Studente: Antonio Paradiso
 
 Argomenti Del Corso:
